@@ -1,4 +1,4 @@
-<img align="top" alt="GIF" src="./Blue Modern Corporate Staff Profile LinkedIn Banner.png" width="1000" height="220" />
+<img align="top" alt="GIF" src="./Blue Modern Corporate Staff Profile LinkedIn Banner.png" width="1000" height="210" />
 
 # 💫 About Me:
 With the honor of being a distinguished Member of NASA as a Citizen Scientist and the recipient of the esteemed Rajya Puraskar award by the Governor of Tamil Nadu, I embody a relentless drive to carve an enduring legacy in the tech sphere. Proficiency in an array of programming languages including C, Python, and Java coupled with a deep-rooted passion for Software Development and an acute Problem - Solving prowess, defines my commitment to excellence. Currently, on the path of refining my skills through my BE program, I relentlessly pursue the cutting edge of innovation. Eager to forge partnerships with industry stalwarts, my mission is to lend my expertise to revolutionary projects that chart a transformative course for the future.
