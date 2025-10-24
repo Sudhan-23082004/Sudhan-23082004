@@ -1,7 +1,7 @@
 <img align="top" alt="GIF" src="./When science becomes relatable, learning becomes unstoppable (1).png" width="1000" />
 
 # 💫 About Me:
-With the honor of being a distinguished Member of NASA as a Citizen Scientist and the recipient of the esteemed Rajya Puraskar award by the Governor of Tamil Nadu, I embody a relentless drive to carve an enduring legacy in the tech sphere. Proficiency in an array of programming languages including C, Python, and Java coupled with a deep-rooted passion for Software Development and an acute Problem - Solving prowess, defines my commitment to excellence. Currently, on the path of refining my skills through my BE program, I relentlessly pursue the cutting edge of innovation. Eager to forge partnerships with industry stalwarts, my mission is to lend my expertise to revolutionary projects that chart a transformative course for the future.
+As a passionate STEM educator and aspiring space researcher, I thrive where innovation meets impact. I currently serve as a NASA Citizen Scientist, NASA STEM Gateway Tutor, and ISRO NARL Student Research Fellow, contributing to projects in atmospheric LiDAR analysis, UAV remote sensing, and geospatial intelligence. With strong skills in Python, Java, and C, I’ve built solutions from vegetation health mapping to sales forecasting and full-stack applications. I’ve guided students as an IAAC Ambassador and led outreach efforts to inspire future innovators. Recognized with the Rajya Puraskar Award, I bring both leadership and technical depth to every initiative. I’m driven to collaborate on research and technology that shape the future of Earth and space.
 
 
 ## 🌐 Socials:
